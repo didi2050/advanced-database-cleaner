@@ -7,6 +7,8 @@ Tested up to: 4.7.3
 Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+## 增加advanced-database-cleaner-zh_CN 简体中文翻译
+## 修改了advanced-db-cleaner.php文件加载languages
 
 Clean database by deleting unused data such as 'revisions', 'drafts', optimize database and more...
 
